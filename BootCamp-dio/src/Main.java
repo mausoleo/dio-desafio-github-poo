@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Isso é um teste 2");
 
         System.out.println("Isso é um teste 3");
+        System.out.println();
     }
 }
