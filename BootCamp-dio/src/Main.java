@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("Isso é apenas um teste");
+
+        System.out.println("Isso é um teste 2");
     }
 }
